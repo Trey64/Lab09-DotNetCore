@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\bin\Debug\netcoreapp2.0\Lab09Tom.deps.json
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\bin\Debug\netcoreapp2.0\Lab09Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\bin\Debug\netcoreapp2.0\Lab09Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\bin\Debug\netcoreapp2.0\Lab09Tom.dll
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\bin\Debug\netcoreapp2.0\Lab09Tom.pdb
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\obj\Debug\netcoreapp2.0\Lab09Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\obj\Debug\netcoreapp2.0\Lab09Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\obj\Debug\netcoreapp2.0\Lab09Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\obj\Debug\netcoreapp2.0\Lab09Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\obj\Debug\netcoreapp2.0\Lab09Tom.dll
+C:\Users\Tom\source\repos\Lab09-DotNetCore\Lab09Tom\Lab09Tom\obj\Debug\netcoreapp2.0\Lab09Tom.pdb
